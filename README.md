@@ -158,9 +158,13 @@ int main() {
 
 ## OUTPUT:
 Before Edge Detection:
+
+
 <img width="554" height="554" alt="images" src="https://github.com/user-attachments/assets/3f1830ac-528e-4f30-8f13-7e35bb5683df" />
 
 After Edge Detection:
+
+
 <img width="389" height="411" alt="exp3 output" src="https://github.com/user-attachments/assets/75a58312-25ce-49c7-a840-cc9e9074b2da" />
 
 ## RESULT:
